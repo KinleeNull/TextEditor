@@ -1,0 +1,1 @@
+This code creates a text editor in which you can create a blank file and edit it, or edit a file that is already made. Along with editing, you are also able to simply view the file. It includes a search feature where you can scroll through all results with your keyboard arrow keys. The text editor also implements syntax highlighting for code.
